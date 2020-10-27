@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/songs">
+        <file>sunflower.mp3</file>
+        <file>goosebumps.mp3</file>
+        <file>niall.mp3</file>
+        <file>lucidDreams.mp3</file>
+    </qresource>
+</RCC>
